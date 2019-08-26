@@ -1,0 +1,19 @@
+<coverage>
+    <name>Cerrado</name>
+    <nativeName>Cerrado</nativeName>
+    <title>Cerrado TITLE</title>
+    <enabled>true</enabled>
+    <description>Cerrado mosaic</description>
+    <metadata>
+        <entry key="time">
+        <dimensionInfo>
+            <enabled>true</enabled>
+            <presentation>LIST</presentation>
+            <units>ISO8601</units>
+            <defaultValue>
+                <strategy>MAXIMUM</strategy>
+            </defaultValue>
+        </dimensionInfo>
+        </entry>
+    </metadata>
+</coverage>
